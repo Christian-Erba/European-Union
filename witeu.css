@@ -1,0 +1,25 @@
+body {
+    font-family: 'Michroma', sans-serif;
+    user-select: none;
+    background-color: blue;
+}
+
+
+h1{
+    color: gold;
+    text-align: center;
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+
+button{
+    box-shadow: 0px 0px 20px gold;
+}
+button:hover{
+    width: 15%;
+    padding: 20px 0;
+    box-shadow: 0px 0px 40px gold;
+}
